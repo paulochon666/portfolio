@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - BTS SIO SISR</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="entreprise.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <!-- Barre de navigation -->
+    <nav id="navbar">
+        <div class="nav-content">
+            <ul>
+                <li><a href="index.html #home">Accueil</a></li>
+                <li><a href="#project-header">Objectif</a></li>
+                <li><a href="#mes-explanation animated-card">IUTo</a></li>
+                <li><a href="#tech-challenge animated-card">Difficultées</a></li>
+                <li><a href="#documentation-section">Documentation</a></li>
+                <li><a href="index.html #contact">Contact</a></li>
+            </ul>
+            <!-- Bouton pour basculer entre le mode clair et le mode sombre -->
+            <label for="themeToggle" class="themeToggle st-sunMoonThemeToggleBtn">
+                <input type="checkbox" id="themeToggle" class="themeToggleInput" />
+                <svg width="10" height="10" viewBox="0 0 20 20" fill="currentColor" stroke="none">
+                    <mask id="moon-mask">
+                        <rect x="0" y="0" width="20" height="20" fill="white"></rect>
+                        <circle cx="11" cy="3" r="8" fill="black"></circle>
+                    </mask>
+                    <circle class="sunMoon" cx="10" cy="10" r="8" mask="url(#moon-mask)"></circle>
+                    <g>
+                        <circle class="sunRay sunRay1" cx="18" cy="10" r="1.5"></circle>
+                        <circle class="sunRay sunRay2" cx="14" cy="16.928" r="1.5"></circle>
+                        <circle class="sunRay sunRay3" cx="6" cy="16.928" r="1.5"></circle>
+                        <circle class="sunRay sunRay4" cx="2" cy="10" r="1.5"></circle>
+                        <circle class="sunRay sunRay5" cx="6" cy="3.1718" r="1.5"></circle>
+                        <circle class="sunRay sunRay6" cx="14" cy="3.1718" r="1.5"></circle>
+                    </g>
+                </svg>
+            </label>
+        </div>
+    </nav>
+
+<!-- Section Home avec effet de parallaxe -->
+<section class="etat parallax-section">
+    <div class="logo-container">
+        <img src="linkwelogo.png" alt="Logo Linkwe" class="entreprise-logo pulse">
+    </div>
+</section>
+
+    <!-- Section Présentation de l'entreprise -->
+    <section id="presentation" class="floating-section">
+        <div class="presentation-content glassmorphism">
+            <h2 class="section-title dynamic-underline">Présentation de Linkwe</h2>
+            <p class="animated-text">Linkwe est une entreprise française créée en 2019, 
+                spécialisée dans les services numériques pour les PME et PMI. Basée à Dardilly, 
+                elle propose des solutions dans plusieurs domaines clés : cloud, réseaux, 
+                télécoms, sécurité informatique et solutions collaboratives (notamment avec Microsoft).
+                <br><br>Linkwe se distingue par son engagement envers l'innovation, 
+                la sécurité et la proximité avec ses clients, offrant des services comme 
+                l'hébergement cloud sécurisé, la téléphonie sur IP et des solutions de cybersécurité.
+                <br><br>Linkwe accompagne ses clients dans la gestion et l'optimisation de leurs infrastructures numériques.</p>
+        </div>
+    </section>
+
+    <!-- Section Thales SIX GTS -->
+    <section class="chiffres_clés">
+        <h2 class="section-title neon-text">Linkwe</h2>
+        <div class="data-grid">
+            <div class="data-card hover-glow">
+                <h3>11</h3>
+                <h4>Personnels</h4>
+                <h5>(Plus d'informations)</h5>
+                <p> Linkwe concentre une grande partie de ses activités sur l’accompagnement des PME et PMI dans leur transformation numérique, en offrant des solutions dans le cloud, la cybersécurité, les télécommunications et la gestion des infrastructures IT <br>
+                    <a rel="stylesheet" href="https://fr.wikipedia.org/wiki/Thales_SIX_GTS_France" id="liens" target="_blank" rel="noreferrer"> (Plus d'information) </a>
+                </p>
+            </div>
+            <div class="data-card hover-glow">
+                <h3>Daradilly <br> </h3>
+                <h4>Siege Social</h4>
+                <h5>(Plus d'informations)</h5>
+                <p>Linkwe est une entreprise spécialisée dans la cybersécurité et les solutions de communication sécurisée. Elle aide ses clients à protéger leurs données et infrastructures, en particulier dans les secteurs de la défense, de la sécurité et du transport. Linkwe propose des solutions adaptées pour garantir la sécurité numérique dans un monde de plus en plus connecté.<br>
+                    <a href="https://fr.wikipedia.org/wiki/Thales_SIX_GTS_France" id="liens" target="_blank" rel="noreferrer"> (Plus d'information) </a>
+                </p>
+            </div>
+            <div class="data-card hover-glow">
+                <h3>4</h3>
+                <h4>Activitées</h4>
+                <h5>(Plus d'informations)</h5>
+                <p>
+                    &#10004 Cloud<br>
+                    &#10004 Réseaux<br>
+                    &#10004 Télécoms<br>
+                    &#10004 Cybersécurité<br>
+                    <a href="https://fr.wikipedia.org/wiki/Thales_SIX_GTS_France" id="liens" target="_blank" rel="noreferrer"> (Plus d'information) </a>
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Section Activités -->
+    <section class="activities-section">
+        <h2 class="section-title neon-text">📋 Activités réalisées</h2>
+        
+        <div class="activities-grid">
+            <!-- Carte Activité 1 -->
+            <article class="activity-card">
+                <h3>Administration Système et Infrastructure IT</h3>
+                <ul1 class="activity-list">
+                    <li>Configuration d'un serveur Windows Server 2022 Essentials avec RAID 1</li>
+                    <li>Suppression de la phase 2 sur les pares-feux clients</li>
+                    <li>Audit d'entreprise et déploiement GLPI</li>
+                </ul1>
+            </article>
+            
+            <!-- Carte Activité 2 -->
+            <article class="activity-card">
+                <h3>Télécommunications et VoIP</h3>
+                <ul2 class="activity-list">
+                    <li>Tests Yealink W70B</li>
+                    <li>Création d'un Trunk Multisite en utilisant l'outil Sofiad de Sewan</li>
+                </ul2>
+            </article>
+            
+            <!-- Carte Activité 3 -->
+            <article class="activity-card">
+                <h3>3. Branding et Collaboration</h3>
+                <ul1 class="activity-list">
+                    <li>Branding Microsoft 365</li>
+                </ul1>
+            </article>
+        </div>
+    </section>
+
+    <!-- Dans la section Rapports de stage -->
+    <section class="documents-section">
+        <h2 class="section-title neon-text">📁 Documents</h2>
+        
+        <div class="documents-grid">
+            <!-- Carte pour le stage 2024 -->
+            <article class="document-card ">
+                <div class="card-header">
+                    <span class="document-year">2024</span>
+                    <div class="document-badge">Complet</div>
+                </div>
+                <div class="card-content">
+                    <h3>Stage chez Linkwe</h3>
+                    <p class="document-description">
+                       
+                    </p>
+                    
+                    <div class="downloads-list">
+                        <a href="doc/Doc-Thales/Stage-thales.pdf" class="download-item">
+                            <i class="fas fa-file-pdf"></i>
+                            Rapport complet (PDF - 2.4 Mo)
+                        </a>
+                        
+                        <a href="doc/Doc-Thales/Graph_SAT.exe" class="download-item">
+                            <i class="fas fa-code"></i>
+                            Graphique-SAT.py (EXE - 15 Mo)
+                        </a>
+                        
+                        <a href="doc/Doc-Thales/scrpt-Graph-SAT.pdf" class="download-item">
+                            <i class="fas fa-file-pdf"></i>
+                            Script-Graphique-SAT (PDF - 8.2 Mo)
+                        </a>
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </section>
+
+    <div class="navigation-section">
+        <a href="index.html#stage" class="back-button">
+            <i class="fas fa-arrow-left"></i>
+            Voir les autres stages
+        </a>
+    </div>
+
+    <!-- Footer -->
+    <footer class="animated-footer">
+        <div class="footer-wave"></div>
+        <p class="footer-text floating">&copy; 2025 Portfolio BTS SIO - Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
