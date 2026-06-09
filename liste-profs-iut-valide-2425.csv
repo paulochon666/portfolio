@@ -1,0 +1,117 @@
+PRENOM;NOM;description;Chemin;Login;Mdp;Mail 
+Louis;RICHARD;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LoRICHARD;Zka86&C;LoRICHARD@IUTO45.fr
+Quentin;BARDOUX;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;QuBARDOUX;Qug14/H;QuBARDOUX@IUTO45.fr
+Anais;COSNARD;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AnCOSNARD;Fqp84&W;AnCOSNARD@IUTO45.fr
+Alice;FRANCOIS;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlFRANCOIS;Esl76#W;AlFRANCOIS@IUTO45.fr
+Zoe;KECK;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ZoKECK;Auq34-O;ZoKECK@IUTO45.fr
+Dorian;POUSSET;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;DoPOUSSET;"Bmx60""J";DoPOUSSET@IUTO45.fr
+Lea;GUIONNET;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LeGUIONNET;Wbi23'P;LeGUIONNET@IUTO45.fr
+Paulin;MALECOT;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;PaMALECOT;Qmb48/K;PaMALECOT@IUTO45.fr
+Laura;SCHERRER;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LaSCHERRER;Pim46/R;LaSCHERRER@IUTO45.fr
+Kardiatou;BA;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;KaBA;Nqx23.Z;KaBA@IUTO45.fr
+Zahia;BELKHIR;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ZaBELKHIR;Smg09(L;ZaBELKHIR@IUTO45.fr
+Lucas;ISIDORE;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LuISIDORE;Cza07,L;LuISIDORE@IUTO45.fr
+Mehdi;YAHIAOUI;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MeYAHIAOUI;Yfy21*Q;MeYAHIAOUI@IUTO45.fr
+Khaoula;GUELLIL;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;KhGUELLIL;Nae11)D;KhGUELLIL@IUTO45.fr
+Plamedi;MENA;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;PlMENA;Wze00/Y;PlMENA@IUTO45.fr
+Marc;VALENTIN;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaVALENTIN;Wkp13&Z;MaVALENTIN@IUTO45.fr
+Roxane;ZOUZI-OMBENA;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;RoZOUZI-OMBENA;Evl15,M;RoZOUZI-OMBENA@IUTO45.fr
+Marceau;GARNIER;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaGARNIER;Znc22/R;MaGARNIER@IUTO45.fr
+Pierre-Emmanuel;MARTINS;eco-gest;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;PiMARTINS;Hnm80*Z;PiMARTINS@IUTO45.fr
+Rick;MOUDILOU;chimie;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;RiMOUDILOU;"Gyb65""J";RiMOUDILOU@IUTO45.fr
+Jeremy;SIMON;chimie;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;JeSIMON;Tkg23+S;JeSIMON@IUTO45.fr
+Leo-Paul;BERNARD;chimie;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LeBERNARD;Hfq97%T;LeBERNARD@IUTO45.fr
+Diana;CROCE;chimie,Math ;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;DiCROCE;Tev55)D;DiCROCE@IUTO45.fr
+Fiora;HARDOUIN;chimie,Math ;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;FiHARDOUIN;"Bge79""P";FiHARDOUIN@IUTO45.fr
+Maxime;LALOYAU;chimie,Math ;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaLALOYAU;Eao71%E;MaLALOYAU@IUTO45.fr
+Alexia;LOPEZ;chimie, Math;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlLOPEZ;Qby73#K;AlLOPEZ@IUTO45.fr
+Cloe;SCHMIT;math,Anglais;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ClSCHMIT;Hmd27/Z;ClSCHMIT@IUTO45.fr
+Lucie;MARCHAIS;math;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LuMARCHAIS;Xiu32*L;LuMARCHAIS@IUTO45.fr
+Flavio;DE OLIVEIRA;Anglais;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;FlDE OLIVEIRA;Lyk99'J;FlDE OLIVEIRA@IUTO45.fr
+Kevin;DEVAUX;Anglais;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;KeDEVAUX;Xsh21'D;KeDEVAUX@IUTO45.fr
+Noah;IMAHO;Anglais;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;NoIMAHO;Sbg62%I;NoIMAHO@IUTO45.fr
+Baptiste;LIZANDO;Anglais;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;BaLIZANDO;Egf06.S;BaLIZANDO@IUTO45.fr
+Thomas;PODEVIN;Anglais;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ThPODEVIN;Iwl89!P;ThPODEVIN@IUTO45.fr
+Jonathan;SALONA;Anglais;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;JoSALONA;Rcz88-Q;JoSALONA@IUTO45.fr
+Marich-Alec;TOULASSI;Edm;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaTOULASSI;Zxd20-G;MaTOULASSI@IUTO45.fr
+Lysandre;ALLAIN;Edm;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LyALLAIN;Mgo37*B;LyALLAIN@IUTO45.fr
+Suren;AVDALIAN;Edm;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;SuAVDALIAN;Zsx70,Y;SuAVDALIAN@IUTO45.fr
+Jennifer;DAVIAU;Edm;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;JeDAVIAU;Fry06%H;JeDAVIAU@IUTO45.fr
+Paul;DEBROUX;Edm;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;PaDEBROUX;Zac62$M;PaDEBROUX@IUTO45.fr
+Noelie;DESOTEUX;Edm;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;NoDESOTEUX;Yjz63+C;NoDESOTEUX@IUTO45.fr
+Dorian;GRATET;Edm;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;DoGRATET;Tkh02)T;DoGRATET@IUTO45.fr
+Ines;GUILLOUET;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;InGUILLOUET;"Pff72""S";InGUILLOUET@IUTO45.fr
+Antoine;JOUSLIN DE NORAY;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AnJOUSLIN DE NORAY;Luc54+H;AnJOUSLIN DE NORAY@IUTO45.fr
+Eva;JUFFROY;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;EvJUFFROY;Xgv35'P;EvJUFFROY@IUTO45.fr
+Lisa;LETUILLIER;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LiLETUILLIER;Lsi46(D;LiLETUILLIER@IUTO45.fr
+Helene;MEIRA;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;HeMEIRA;Kac20#M;HeMEIRA@IUTO45.fr
+Valentin;PIQUEMAL;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;VaPIQUEMAL;Dlh60!U;VaPIQUEMAL@IUTO45.fr
+Aubin;POPRAWA;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AuPOPRAWA;Sjq29'A;AuPOPRAWA@IUTO45.fr
+Elisa;ROUSSEL;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ElROUSSEL;Ckr33-D;ElROUSSEL@IUTO45.fr
+Maloe;ABERKANE;info;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaABERKANE;Drp40%K;MaABERKANE@IUTO45.fr
+Maissane;BEN TAKKOUK;Com;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaBEN TAKKOUK;Obp85#H;MaBEN TAKKOUK@IUTO45.fr
+Loanne;BOUCEY;Com;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LoBOUCEY;Dyd63*H;LoBOUCEY@IUTO45.fr
+LOUIS;CERAOLO;Com;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LOCERAOLO;Ijd75)B;LOCERAOLO@IUTO45.fr
+Hugo;CHEYMOL;Com;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;HuCHEYMOL;Wud23+A;HuCHEYMOL@IUTO45.fr
+Ian;COUSSEMENT;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;IaCOUSSEMENT;Whf39.V;IaCOUSSEMENT@IUTO45.fr
+Albane;DESCAMPS;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlDESCAMPS;Etw74+Z;AlDESCAMPS@IUTO45.fr
+Louison;GRILLON;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LoGRILLON;Qzx14'D;LoGRILLON@IUTO45.fr
+Nicolas-Diamond;MANIONGUI;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;NiMANIONGUI;Yht20+H;NiMANIONGUI@IUTO45.fr
+Mehdi;MESSAi;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MeMESSAi;Khb81)B;MeMESSAi@IUTO45.fr
+Alexis;MIALHE-BARILLET;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlMIALHE-BARILLET;Jdw06&M;AlMIALHE-BARILLET@IUTO45.fr
+Manon;SCHARTNER;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaSCHARTNER;"Qao47""B";MaSCHARTNER@IUTO45.fr
+Thomas;BOUKHOUDA;Qualit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ThBOUKHOUDA;Iuv91/P;ThBOUKHOUDA@IUTO45.fr
+Alexandre;BRISEUX;Qualit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlBRISEUX;Uug40*X;AlBRISEUX@IUTO45.fr
+Antoine;CALVO;Qualit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AnCALVO;Ipu15(O;AnCALVO@IUTO45.fr
+Anatole;CARPENTIER;Qualit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AnCARPENTIER;Zlt42$J;AnCARPENTIER@IUTO45.fr
+Olivia;DUMERY;Qualit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;OlDUMERY;Mfq40#R;OlDUMERY@IUTO45.fr
+Rhyme;EL OMARI;Qualit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;RhEL OMARI;Soj09+D;RhEL OMARI@IUTO45.fr
+Yanis;FERREIRA;Qualit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;YaFERREIRA;Hwr24'Z;YaFERREIRA@IUTO45.fr
+Sonia;GOMES;Exp-ecrit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;SoGOMES;Qdv71*Y;SoGOMES@IUTO45.fr
+Louis;LAUJON;Exp-ecrit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LoLAUJON;Mqi79.K;LoLAUJON@IUTO45.fr
+Mathys;LEITE;Exp-ecrit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaLEITE;Apo76$P;MaLEITE@IUTO45.fr
+Lola;LOISEAU;Exp-ecrit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LoLOISEAU;Aaa45'I;LoLOISEAU@IUTO45.fr
+Lenny;MAQUIN;Exp-ecrit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LeMAQUIN;Qti15#V;LeMAQUIN@IUTO45.fr
+Romain;MARSAUDON;Marketting;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;RoMARSAUDON;Lag03$C;RoMARSAUDON@IUTO45.fr
+Alicia;MATHIEU;Marketting;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlMATHIEU;Pmm41!Q;AlMATHIEU@IUTO45.fr
+Theo;MAURICE;Marketting;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ThMAURICE;Uhc90-M;ThMAURICE@IUTO45.fr
+Erwan;MLARAHA;Marketting;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ErMLARAHA;Urt65!Q;ErMLARAHA@IUTO45.fr
+Theo;NOUBLANCHE;Marketting;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ThNOUBLANCHE;Guz68(A;ThNOUBLANCHE@IUTO45.fr
+Clara;PIRAO;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ClPIRAO;Mbv87%C;ClPIRAO@IUTO45.fr
+Augustin;TAN;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AuTAN;Gvm61.S;AuTAN@IUTO45.fr
+Fanny;TISSERAND;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;FaTISSERAND;Shp73%L;FaTISSERAND@IUTO45.fr
+Hugo;TODOROFF;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;HuTODOROFF;Lqj71-H;HuTODOROFF@IUTO45.fr
+Cassandre;VANDAELE;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;CaVANDAELE;Fnp85$T;CaVANDAELE@IUTO45.fr
+Manon;VATIN;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaVATIN;Pcz89/Y;MaVATIN@IUTO45.fr
+Honorine;VAUDELLE;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;HoVAUDELLE;Pos30,P;HoVAUDELLE@IUTO45.fr
+Alban;LAURON;Meca;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlLAURON;Wcd58'B;AlLAURON@IUTO45.fr
+Deniz;ATAC;Droit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;DeATAC;Dbb37,H;DeATAC@IUTO45.fr
+Lea;BABEF;Droit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LeBABEF;Lud19(I;LeBABEF@IUTO45.fr
+Lydia;BILONNEAU;Droit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LyBILONNEAU;Pql99(A;LyBILONNEAU@IUTO45.fr
+Emeline;CORBILLe;Droit;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;EmCORBILLe;Zsk28-R;EmCORBILLe@IUTO45.fr
+Daphne;FILIPE;Physique;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;DaFILIPE;Tay48(K;DaFILIPE@IUTO45.fr
+Chloe;GIRY;Physique;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ChGIRY;Bnl20(L;ChGIRY@IUTO45.fr
+Liv;GOSSET;Physique;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LiGOSSET;"Zfx36""A";LiGOSSET@IUTO45.fr
+Manon;GUEGUEN;Physique;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaGUEGUEN;Cbd40+D;MaGUEGUEN@IUTO45.fr
+Rania;HACHEM;Physique;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;RaHACHEM;Vwo84)R;RaHACHEM@IUTO45.fr
+Louise;HARRAULT;Physique;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LoHARRAULT;Sey42'F;LoHARRAULT@IUTO45.fr
+Apolline;HENRIOT;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ApHENRIOT;Tke79-E;ApHENRIOT@IUTO45.fr
+Chlea;JONARD;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ChJONARD;Rfb15/O;ChJONARD@IUTO45.fr
+Maiwenn;LACROIX;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaLACROIX;Cxb55&A;MaLACROIX@IUTO45.fr
+Isaline;LEBOUT;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;IsLEBOUT;Zdk85$I;IsLEBOUT@IUTO45.fr
+Alessandro;MALASSENET;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AlMALASSENET;Rdn92!S;AlMALASSENET@IUTO45.fr
+Louane;PIVERT;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LoPIVERT;Lsj87$E;LoPIVERT@IUTO45.fr
+Matthew;RAES;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaRAES;Vkt67$B;MaRAES@IUTO45.fr
+Amandine;RAT;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AmRAT;Xbr04!F;AmRAT@IUTO45.fr
+Eugenie;SIMON;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;EuSIMON;Fza42*K;EuSIMON@IUTO45.fr
+Josephine;SIMONS;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;JoSIMONS;Wpa80&D;JoSIMONS@IUTO45.fr
+Thais;VOISIN;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ThVOISIN;Uky13$V;ThVOISIN@IUTO45.fr
+Mohamed;ABANNOUD;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MoABANNOUD;Sjh04-C;MoABANNOUD@IUTO45.fr
+Walid;BADDA;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;WaBADDA;Jpj88)P;WaBADDA@IUTO45.fr
+Nathan;BEAUCLAIR;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;NaBEAUCLAIR;Mdq08*X;NaBEAUCLAIR@IUTO45.fr
+Mayeul;BELLAMY;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;MaBELLAMY;Ulz86/I;MaBELLAMY@IUTO45.fr
+Nathanael;BEMBA;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;NaBEMBA;Duq76,A;NaBEMBA@IUTO45.fr
+Thomas;CHATEIGNER;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;ThCHATEIGNER;Ozn42!I;ThCHATEIGNER@IUTO45.fr
+Heloise;COLOMIER;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;HeCOLOMIER;Vhb36+U;HeCOLOMIER@IUTO45.fr
+Leopold;DEWEER;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;LeDEWEER;Ayh07%Q;LeDEWEER@IUTO45.fr
+Antonin;DO SOUTO;Pro;OU = Professeur , OU = IUTuser , DC = IUT-O45 , DC = fr ;AnDO SOUTO;"Byw29""L";AnDO SOUTO@IUTO45.fr
